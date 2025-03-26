@@ -1,0 +1,89 @@
+Global Styles:
+Header Styles:
+4.6 CSS Implementation
+Codes:
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+}
+header {
+background-color: #333;
+color: #fff;
+padding: 10px;
+}
+h1 {
+margin: 0;
+}
+nav {
+display: flex;
+justify-content: flex-end;
+}
+nav ul {
+list-style: none;
+margin: 0;
+padding: 0;
+display: flex;
+}
+nav li {
+margin-left: 10px;
+}
+nav a {
+color: #fff;
+text-decoration: none;
+20
+Main Styles:
+padding: 5px;
+}
+nav a:hover {
+background-color: #fff;
+color: #333;
+}
+main {
+max-width: 800px;
+margin: 0 auto;
+padding: 20px;
+}
+section {
+margin-bottom: 30px;
+}
+h2 {
+font-size: 2em;
+margin-bottom: 20px;
+}
+.item {
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-bottom: 20px;
+}
+.item img {
+width: 200px;
+height: auto;
+margin-bottom: 10px;
+}
+.item h3 {
+font-size: 1.5em;
+margin-bottom: 10px;
+}
+.item p {
+21
+Footer Styles:
+margin-bottom: 10px;
+}
+button {
+background-color: #333;
+color: #fff;
+border: none;
+padding: 10px;
+cursor: pointer;
+}
+button:hover {
+background-color: #fff;
+color: #333;
+}
+footer {
+background-color: #333;
+color: #fff;
+padding: 10px;
+text-align: cent
